@@ -1,0 +1,15 @@
+names:
+  0: Pedestrian
+  1: Cyclist
+  2: Car
+  3: Motorcyclist
+  4: Barrowlist
+  5: Bus
+  6: Van
+  7: Truck
+  8: Tricyclist
+  9: Trafficcone
+path: annotations
+test: images/train
+train: images/train
+val: images/train
